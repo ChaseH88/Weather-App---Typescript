@@ -48,7 +48,7 @@
     "axios": "^0.19.2",
     "clsx": "^1.1.0",
     "dotenv": "^8.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-card-flip": "^1.0.10",
